@@ -12,7 +12,7 @@ Lately, my academic and project experience revolves around developing intelligen
 
 ---
 
-**Ongoing Projects: **  
+**Ongoing Projects:**  
 🔹 *FinSentio* – AI-powered financial assistant utilizing structured LLM outputs, real-time market data, and intelligent agents  
 
 ---
