@@ -17,6 +17,6 @@ Lately, my academic and project experience revolves around developing intelligen
 
 ---
 
-📫 Feel free to connect with me on [LinkedIn]([your-link-here](https://www.linkedin.com/in/basaknehirartan/))!
+📫 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/basaknehirartan/])!
 
 
