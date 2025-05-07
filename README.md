@@ -16,7 +16,6 @@ Lately, my academic and project experience revolves around developing intelligen
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss)
 ![Gradio](https://img.shields.io/badge/-Gradio-2563EB?style=flat&logo=gradio)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-6A4CFF?style=flat&logo=huggingface)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
 
